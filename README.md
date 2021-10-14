@@ -1,1 +1,5 @@
-# projectEuiler
+
+// 1
+
+
+# projectEuiler Java Solutions
